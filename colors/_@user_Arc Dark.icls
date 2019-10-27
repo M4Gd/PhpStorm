@@ -4,7 +4,7 @@
     <property name="created">2019-10-14T16:06:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-10-17T13:10:19</property>
+    <property name="modified">2019-10-27T13:03:57</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.35" />
@@ -12,7 +12,7 @@
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="DroidSansMono Nerd Font" />
+    <option name="EDITOR_FONT_NAME" value="DroidSansMono Nerd Font Mono" />
     <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <console-font>
