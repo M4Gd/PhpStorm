@@ -4,21 +4,28 @@
     <property name="created">2019-10-14T16:06:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-11-06T16:32:27</property>
+    <property name="modified">2019-10-27T13:03:57</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="LINE_SPACING" value="1.35" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="DroidSansMono Nerd Font Mono" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8f9d6a" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="e2e5e7" />
     <option name="CARET_ROW_COLOR" value="272b33" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="181a1f" />
     <option name="DELETED_LINES_COLOR" value="cf6a4c" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
@@ -46,7 +53,7 @@
     <option name="INDENT_GUIDE" value="3e434a" />
     <option name="INFORMATION_HINT" value="262b33" />
     <option name="LINE_NUMBERS_COLOR" value="5c6066" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ebebec" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="afafb0" />
     <option name="METHOD_SEPARATORS_COLOR" value="21252b" />
     <option name="MODIFIED_LINES_COLOR" value="47bc9b" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
@@ -2835,7 +2842,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="501a28" />
+        <option name="BACKGROUND" value="4a4d50" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
