@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="cheatsheet" type="PHP" />
+      <mapping ext="com" type="PHP" />
     </extensionMap>
   </component>
 </application>
