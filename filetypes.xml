@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="cheatsheet" type="PHP" />
       <mapping ext="com" type="PHP" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
