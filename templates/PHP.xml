@@ -1,3 +1,4 @@
 <templateSet group="PHP">
   <template name="tryc" value="try{&#10;&#10;} catch ( \ErrorExecption $event ){&#10;    &#10;}" description="try catch" toReformat="false" toShortenFQNames="true" />
+  <template name="class" value="class $NAME{&#10;}&#10;" toReformat="false" toShortenFQNames="true" />
 </templateSet>
