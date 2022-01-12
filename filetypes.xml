@@ -9,6 +9,7 @@
       <mapping pattern=".research" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
+      <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
